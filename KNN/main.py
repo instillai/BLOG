@@ -1,3 +1,5 @@
+# Blog post: https://machinelearningmindset.com/nearest-neighbor-classifier-a-working-example/
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
